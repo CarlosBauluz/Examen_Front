@@ -127,3 +127,10 @@ html {
 .tabular-nums {
   font-variant-numeric: tabular-nums;
 }
+
+
+.footer{
+  display:flex;
+  justify-content: center;
+  padding-top: 800px;
+}
